@@ -1,0 +1,14 @@
+✅ Roadmap of DSA
+✅ Introduction to DSA
+✅ Applications of DSA
+✅ why every Developer should know DSA
+✅ Number System
+✅ Unary, Decimal, Binary
+✅ Conversion of Decimal to Binary
+✅ Conversion of Binary to Decimal
+
+👉 Notes link:
+▫ Theory Notes
+🔗 https://docs.google.com/document/d/1L3i3faa4uRgzIfDRYBQ0HqgZfySDygtXDeOxKFfgHTU/edit?usp=sharing
+▫ Coding Notes
+🔗 https://docs.google.com/document/d/1QUlR4NjkzwlnOIP8b0KGH89LrWB7QsSaJRTfHHYmWBE/edit?usp=sharing

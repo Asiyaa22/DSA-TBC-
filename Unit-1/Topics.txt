@@ -3,9 +3,11 @@
 ✅ Applications of DSA
 ✅ why every Developer should know DSA
 ✅ Number System
-✅ Unary, Decimal, Binary
+✅ Unary, Decimal, Binary, Octal, Hexadecimal
 ✅ Conversion of Decimal to Binary
 ✅ Conversion of Binary to Decimal
+✅ Conversion of Octal to Decimal
+✅ Conversion of Hexadecimal to Decimal
 
 👉 Notes link:
 ▫ Theory Notes
